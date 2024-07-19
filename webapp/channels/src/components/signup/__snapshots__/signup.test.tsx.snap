@@ -104,7 +104,7 @@ exports[`components/signup/Signup should match snapshot for all signup options e
               <span
                 className="link"
               >
-                Sign up at 
+                Sign up at
                 <ForwardRef
                   href="https://mattermost.com/security-updates/"
                   key=".1"
@@ -162,7 +162,7 @@ exports[`components/signup/Signup should match snapshot for all signup options e
                 Object {
                   "PrivacyPolicyLink": "!undefined",
                   "TermsOfServiceLink": "!undefined",
-                  "siteName": "Mattermost",
+                  "SiteName": "DatopicChat",
                 }
               }
             />
@@ -278,7 +278,7 @@ exports[`components/signup/Signup should match snapshot for all signup options e
               <span
                 className="link"
               >
-                Sign up at 
+                Sign up at
                 <ForwardRef
                   href="https://mattermost.com/security-updates/"
                   key=".1"
@@ -382,7 +382,7 @@ exports[`components/signup/Signup should match snapshot for all signup options e
                 Object {
                   "PrivacyPolicyLink": "!undefined",
                   "TermsOfServiceLink": "!undefined",
-                  "siteName": "Mattermost",
+                  "SiteName": "DatopicChat",
                 }
               }
             />

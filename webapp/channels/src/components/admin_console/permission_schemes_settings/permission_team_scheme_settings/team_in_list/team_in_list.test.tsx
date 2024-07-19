@@ -22,7 +22,7 @@ describe('components/admin_console/permission_schemes_settings/permission_team_s
                 description: 'testTeam description',
                 email: 'test@team',
                 type: 'O' as TeamType,
-                company_name: 'mattermost',
+                company_name: 'datopic',
                 allowed_domains: '',
                 invite_id: '678',
                 allow_open_invite: true,

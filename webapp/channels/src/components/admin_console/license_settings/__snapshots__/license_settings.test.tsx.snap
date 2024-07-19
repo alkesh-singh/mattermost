@@ -23,7 +23,7 @@ exports[`components/admin_console/license_settings/LicenseSettings load screen a
           isLicenseExpired={false}
           license={
             Object {
-              "Company": "Mattermost Inc.",
+              "Company": "Datopic Inc.",
               "ExpiresAt": "1620335443650",
               "IsLicensed": "true",
               "IssuedAt": "1517714643650",
@@ -62,7 +62,7 @@ exports[`components/admin_console/license_settings/LicenseSettings load screen a
           <div
             className="terms-and-policy"
           >
-            See also 
+            See also
             <ForwardRef
               href="https://mattermost.com/pl/terms-of-use/"
               id="privacyLink"
@@ -70,7 +70,7 @@ exports[`components/admin_console/license_settings/LicenseSettings load screen a
             >
               Enterprise Edition Terms of Use
             </ForwardRef>
-             and 
+             and
             <ForwardRef
               href="https://mattermost.com/pl/privacy-policy/"
               id="privacyLink"
@@ -127,7 +127,7 @@ exports[`components/admin_console/license_settings/LicenseSettings load screen w
           isLicenseExpired={false}
           license={
             Object {
-              "Company": "Mattermost Inc.",
+              "Company": "Datopic Inc.",
               "ExpiresAt": "1620335443650",
               "IsLicensed": "true",
               "IssuedAt": "1517714643650",
@@ -166,7 +166,7 @@ exports[`components/admin_console/license_settings/LicenseSettings load screen w
           <div
             className="terms-and-policy"
           >
-            See also 
+            See also
             <ForwardRef
               href="https://mattermost.com/pl/terms-of-use/"
               id="privacyLink"
@@ -174,7 +174,7 @@ exports[`components/admin_console/license_settings/LicenseSettings load screen w
             >
               Enterprise Edition Terms of Use
             </ForwardRef>
-             and 
+             and
             <ForwardRef
               href="https://mattermost.com/pl/privacy-policy/"
               id="privacyLink"
@@ -231,7 +231,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
           isLicenseExpired={false}
           license={
             Object {
-              "Company": "Mattermost Inc.",
+              "Company": "Datopic Inc.",
               "ExpiresAt": "1620335443650",
               "IsLicensed": "true",
               "IssuedAt": "1517714643650",
@@ -265,7 +265,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
               isTrialLicense={false}
               license={
                 Object {
-                  "Company": "Mattermost Inc.",
+                  "Company": "Datopic Inc.",
                   "ExpiresAt": "1620335443650",
                   "IsLicensed": "true",
                   "IssuedAt": "1517714643650",
@@ -284,7 +284,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
           <div
             className="terms-and-policy"
           >
-            See also 
+            See also
             <ForwardRef
               href="https://mattermost.com/pl/terms-of-use/"
               id="privacyLink"
@@ -292,7 +292,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
             >
               Enterprise Edition Terms of Use
             </ForwardRef>
-             and 
+             and
             <ForwardRef
               href="https://mattermost.com/pl/privacy-policy/"
               id="privacyLink"
@@ -312,7 +312,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
               isTrialLicense={false}
               license={
                 Object {
-                  "Company": "Mattermost Inc.",
+                  "Company": "Datopic Inc.",
                   "ExpiresAt": "1620335443650",
                   "IsLicensed": "true",
                   "IssuedAt": "1517714643650",
@@ -327,7 +327,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
           <div
             className="compare-plans-text"
           >
-            Curious about upgrading? 
+            Curious about upgrading?
             <ForwardRef
               href="https://mattermost.com/pl/pricing/"
               id="privacyLink"
@@ -366,7 +366,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
           isLicenseExpired={false}
           license={
             Object {
-              "Company": "Mattermost Inc.",
+              "Company": "Datopic Inc.",
               "ExpiresAt": "1620335443650",
               "IsLicensed": "true",
               "IssuedAt": "1517714643650",
@@ -400,7 +400,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
               isTrialLicense={false}
               license={
                 Object {
-                  "Company": "Mattermost Inc.",
+                  "Company": "Datopic Inc.",
                   "ExpiresAt": "1620335443650",
                   "IsLicensed": "true",
                   "IssuedAt": "1517714643650",
@@ -419,7 +419,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
           <div
             className="terms-and-policy"
           >
-            See also 
+            See also
             <ForwardRef
               href="https://mattermost.com/pl/terms-of-use/"
               id="privacyLink"
@@ -427,7 +427,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
             >
               Enterprise Edition Terms of Use
             </ForwardRef>
-             and 
+             and
             <ForwardRef
               href="https://mattermost.com/pl/privacy-policy/"
               id="privacyLink"
@@ -447,7 +447,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
               isTrialLicense={false}
               license={
                 Object {
-                  "Company": "Mattermost Inc.",
+                  "Company": "Datopic Inc.",
                   "ExpiresAt": "1620335443650",
                   "IsLicensed": "true",
                   "IssuedAt": "1517714643650",
@@ -489,7 +489,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
           isLicenseExpired={false}
           license={
             Object {
-              "Company": "Mattermost Inc.",
+              "Company": "Datopic Inc.",
               "ExpiresAt": "1620335443650",
               "IsLicensed": "true",
               "IssuedAt": "1517714643650",
@@ -523,7 +523,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
               isTrialLicense={false}
               license={
                 Object {
-                  "Company": "Mattermost Inc.",
+                  "Company": "Datopic Inc.",
                   "ExpiresAt": "1620335443650",
                   "IsLicensed": "true",
                   "IssuedAt": "1517714643650",
@@ -542,7 +542,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
           <div
             className="terms-and-policy"
           >
-            See also 
+            See also
             <ForwardRef
               href="https://mattermost.com/pl/terms-of-use/"
               id="privacyLink"
@@ -550,7 +550,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
             >
               Enterprise Edition Terms of Use
             </ForwardRef>
-             and 
+             and
             <ForwardRef
               href="https://mattermost.com/pl/privacy-policy/"
               id="privacyLink"
@@ -570,7 +570,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
               isTrialLicense={false}
               license={
                 Object {
-                  "Company": "Mattermost Inc.",
+                  "Company": "Datopic Inc.",
                   "ExpiresAt": "1620335443650",
                   "IsLicensed": "true",
                   "IssuedAt": "1517714643650",
@@ -612,7 +612,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
           isLicenseExpired={false}
           license={
             Object {
-              "Company": "Mattermost Inc.",
+              "Company": "Datopic Inc.",
               "ExpiresAt": "1620335443650",
               "IsLicensed": "true",
               "IssuedAt": "1517714643650",
@@ -646,7 +646,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
               isTrialLicense={false}
               license={
                 Object {
-                  "Company": "Mattermost Inc.",
+                  "Company": "Datopic Inc.",
                   "ExpiresAt": "1620335443650",
                   "IsLicensed": "true",
                   "IssuedAt": "1517714643650",
@@ -665,7 +665,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
           <div
             className="terms-and-policy"
           >
-            See also 
+            See also
             <ForwardRef
               href="https://mattermost.com/pl/terms-of-use/"
               id="privacyLink"
@@ -673,7 +673,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
             >
               Enterprise Edition Terms of Use
             </ForwardRef>
-             and 
+             and
             <ForwardRef
               href="https://mattermost.com/pl/privacy-policy/"
               id="privacyLink"
@@ -693,7 +693,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
               isTrialLicense={false}
               license={
                 Object {
-                  "Company": "Mattermost Inc.",
+                  "Company": "Datopic Inc.",
                   "ExpiresAt": "1620335443650",
                   "IsLicensed": "true",
                   "IssuedAt": "1517714643650",
@@ -735,7 +735,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
           isLicenseExpired={false}
           license={
             Object {
-              "Company": "Mattermost Inc.",
+              "Company": "Datopic Inc.",
               "ExpiresAt": "1620335443650",
               "IsLicensed": "true",
               "IssuedAt": "1517714643650",
@@ -769,7 +769,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
               isTrialLicense={false}
               license={
                 Object {
-                  "Company": "Mattermost Inc.",
+                  "Company": "Datopic Inc.",
                   "ExpiresAt": "1620335443650",
                   "IsLicensed": "true",
                   "IssuedAt": "1517714643650",
@@ -788,7 +788,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
           <div
             className="terms-and-policy"
           >
-            See also 
+            See also
             <ForwardRef
               href="https://mattermost.com/pl/terms-of-use/"
               id="privacyLink"
@@ -796,7 +796,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
             >
               Enterprise Edition Terms of Use
             </ForwardRef>
-             and 
+             and
             <ForwardRef
               href="https://mattermost.com/pl/privacy-policy/"
               id="privacyLink"
@@ -816,7 +816,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
               isTrialLicense={false}
               license={
                 Object {
-                  "Company": "Mattermost Inc.",
+                  "Company": "Datopic Inc.",
                   "ExpiresAt": "1620335443650",
                   "IsLicensed": "true",
                   "IssuedAt": "1517714643650",
@@ -858,7 +858,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
           isLicenseExpired={false}
           license={
             Object {
-              "Company": "Mattermost Inc.",
+              "Company": "Datopic Inc.",
               "ExpiresAt": "1620335443650",
               "IsLicensed": "true",
               "IssuedAt": "1517714643650",
@@ -892,7 +892,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
               isTrialLicense={false}
               license={
                 Object {
-                  "Company": "Mattermost Inc.",
+                  "Company": "Datopic Inc.",
                   "ExpiresAt": "1620335443650",
                   "IsLicensed": "true",
                   "IssuedAt": "1517714643650",
@@ -911,7 +911,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
           <div
             className="terms-and-policy"
           >
-            See also 
+            See also
             <ForwardRef
               href="https://mattermost.com/pl/terms-of-use/"
               id="privacyLink"
@@ -919,7 +919,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
             >
               Enterprise Edition Terms of Use
             </ForwardRef>
-             and 
+             and
             <ForwardRef
               href="https://mattermost.com/pl/privacy-policy/"
               id="privacyLink"
@@ -939,7 +939,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
               isTrialLicense={false}
               license={
                 Object {
-                  "Company": "Mattermost Inc.",
+                  "Company": "Datopic Inc.",
                   "ExpiresAt": "1620335443650",
                   "IsLicensed": "true",
                   "IssuedAt": "1517714643650",
@@ -1043,7 +1043,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
           <div
             className="compare-plans-text"
           >
-            Curious about upgrading? 
+            Curious about upgrading?
             <ForwardRef
               href="https://mattermost.com/pl/pricing/"
               id="privacyLink"
@@ -1126,7 +1126,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
           <div
             className="terms-and-policy"
           >
-            See also 
+            See also
             <ForwardRef
               href="https://mattermost.com/pl/terms-of-use/"
               id="privacyLink"
@@ -1134,7 +1134,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
             >
               Enterprise Edition Terms of Use
             </ForwardRef>
-             and 
+             and
             <ForwardRef
               href="https://mattermost.com/pl/privacy-policy/"
               id="privacyLink"
@@ -1155,7 +1155,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
           <div
             className="compare-plans-text"
           >
-            Curious about upgrading? 
+            Curious about upgrading?
             <ForwardRef
               href="https://mattermost.com/pl/pricing/"
               id="privacyLink"
@@ -1238,7 +1238,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
           <div
             className="terms-and-policy"
           >
-            See also 
+            See also
             <ForwardRef
               href="https://mattermost.com/pl/terms-of-use/"
               id="privacyLink"
@@ -1246,7 +1246,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
             >
               Enterprise Edition Terms of Use
             </ForwardRef>
-             and 
+             and
             <ForwardRef
               href="https://mattermost.com/pl/privacy-policy/"
               id="privacyLink"
@@ -1267,7 +1267,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
           <div
             className="compare-plans-text"
           >
-            Curious about upgrading? 
+            Curious about upgrading?
             <ForwardRef
               href="https://mattermost.com/pl/pricing/"
               id="privacyLink"
@@ -1306,7 +1306,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
           isLicenseExpired={false}
           license={
             Object {
-              "Company": "Mattermost Inc.",
+              "Company": "Datopic Inc.",
               "ExpiresAt": "1620335443650",
               "IsLicensed": "true",
               "IssuedAt": "1517714643650",
@@ -1345,7 +1345,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
           <div
             className="terms-and-policy"
           >
-            See also 
+            See also
             <ForwardRef
               href="https://mattermost.com/pl/terms-of-use/"
               id="privacyLink"
@@ -1353,7 +1353,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
             >
               Enterprise Edition Terms of Use
             </ForwardRef>
-             and 
+             and
             <ForwardRef
               href="https://mattermost.com/pl/privacy-policy/"
               id="privacyLink"
@@ -1447,7 +1447,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
           <div
             className="terms-and-policy"
           >
-            See also 
+            See also
             <ForwardRef
               href="https://mattermost.com/pl/terms-of-use/"
               id="privacyLink"
@@ -1455,7 +1455,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
             >
               Enterprise Edition Terms of Use
             </ForwardRef>
-             and 
+             and
             <ForwardRef
               href="https://mattermost.com/pl/privacy-policy/"
               id="privacyLink"
@@ -1485,7 +1485,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
           <div
             className="compare-plans-text"
           >
-            Curious about upgrading? 
+            Curious about upgrading?
             <ForwardRef
               href="https://mattermost.com/pl/pricing/"
               id="privacyLink"
@@ -1553,7 +1553,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
           <div
             className="terms-and-policy"
           >
-            See also 
+            See also
             <ForwardRef
               href="https://mattermost.com/pl/terms-of-use/"
               id="privacyLink"
@@ -1561,7 +1561,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
             >
               Enterprise Edition Terms of Use
             </ForwardRef>
-             and 
+             and
             <ForwardRef
               href="https://mattermost.com/pl/privacy-policy/"
               id="privacyLink"
@@ -1582,7 +1582,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
           <div
             className="compare-plans-text"
           >
-            Curious about upgrading? 
+            Curious about upgrading?
             <ForwardRef
               href="https://mattermost.com/pl/pricing/"
               id="privacyLink"
@@ -1639,7 +1639,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
               license={
                 Object {
                   "Cloud": "true",
-                  "Company": "Mattermost Inc.",
+                  "Company": "Datopic Inc.",
                   "ExpiresAt": "1620993600000",
                   "IsLicensed": "true",
                   "IssuedAt": "1517714643650",
@@ -1658,7 +1658,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
           <div
             className="terms-and-policy"
           >
-            See also 
+            See also
             <ForwardRef
               href="https://mattermost.com/pl/terms-of-use/"
               id="privacyLink"
@@ -1666,7 +1666,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
             >
               Enterprise Edition Terms of Use
             </ForwardRef>
-             and 
+             and
             <ForwardRef
               href="https://mattermost.com/pl/privacy-policy/"
               id="privacyLink"
@@ -1687,7 +1687,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
               license={
                 Object {
                   "Cloud": "true",
-                  "Company": "Mattermost Inc.",
+                  "Company": "Datopic Inc.",
                   "ExpiresAt": "1620993600000",
                   "IsLicensed": "true",
                   "IssuedAt": "1517714643650",
@@ -1729,7 +1729,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
           isLicenseExpired={false}
           license={
             Object {
-              "Company": "Mattermost Inc.",
+              "Company": "Datopic Inc.",
               "ExpiresAt": "1620993600000",
               "IsLicensed": "true",
               "IssuedAt": "1517714643650",
@@ -1763,7 +1763,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
               isTrialLicense={false}
               license={
                 Object {
-                  "Company": "Mattermost Inc.",
+                  "Company": "Datopic Inc.",
                   "ExpiresAt": "1620993600000",
                   "IsLicensed": "true",
                   "IssuedAt": "1517714643650",
@@ -1782,7 +1782,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
           <div
             className="terms-and-policy"
           >
-            See also 
+            See also
             <ForwardRef
               href="https://mattermost.com/pl/terms-of-use/"
               id="privacyLink"
@@ -1790,7 +1790,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
             >
               Enterprise Edition Terms of Use
             </ForwardRef>
-             and 
+             and
             <ForwardRef
               href="https://mattermost.com/pl/privacy-policy/"
               id="privacyLink"
@@ -1810,7 +1810,7 @@ exports[`components/admin_console/license_settings/LicenseSettings should match 
               isTrialLicense={false}
               license={
                 Object {
-                  "Company": "Mattermost Inc.",
+                  "Company": "Datopic Inc.",
                   "ExpiresAt": "1620993600000",
                   "IsLicensed": "true",
                   "IssuedAt": "1517714643650",

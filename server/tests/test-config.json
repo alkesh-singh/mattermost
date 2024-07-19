@@ -64,7 +64,7 @@
         "ExperimentalEnableHardenedMode": false
     },
     "TeamSettings": {
-        "SiteName": "Mattermost",
+        "SiteName": "DatopicChat",
         "MaxUsersPerTeam": 50,
         "EnableUserCreation": true,
         "EnableOpenServer": false,

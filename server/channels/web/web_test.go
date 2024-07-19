@@ -375,7 +375,7 @@ func TestStaticFilesCaching(t *testing.T) {
 	fakeMainBundleName := "main.1234ab.js"
 	fakeRootHTML := `<html>
 <head>
-	<title>Mattermost</title>
+	<title>DatopicChat</title>
 </head>
 </html>`
 	fakeMainBundle := `module.exports = 'main';`

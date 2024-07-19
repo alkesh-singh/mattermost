@@ -113,7 +113,7 @@
         "MaximumPayloadSizeBytes": 100000
     },
     "TeamSettings": {
-        "SiteName": "Mattermost",
+        "SiteName": "DatopicChat",
         "MaxUsersPerTeam": 2000,
         "EnableJoinLeaveMessageByDefault": true,
         "EnableUserCreation": true,

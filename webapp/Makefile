@@ -90,11 +90,17 @@ clean: ## Clears cached; deletes node_modules and dist directories
 
 .PHONY: package
 package: node_modules dist ## Generates ./mattermost-webapp.tar.gz for use by someone customizing the web app
+	echo "Creating tmp directory..."
 	mkdir tmp
+	echo "Moving channels/dist to tmp/client..."
 	mv channels/dist tmp/client
+	echo "Creating tarball..."
 	tar -C tmp -czf mattermost-webapp.tar.gz client
+	echo "Restoring channels/dist..."
 	mv tmp/client channels/dist
+	echo "Removing tmp directory..."
 	rmdir tmp
+	echo "Tarball creation complete."
 
 ## Help documentation à la https://marmelab.com/blog/2016/02/29/auto-documented-makefile.html
 .PHONY: help

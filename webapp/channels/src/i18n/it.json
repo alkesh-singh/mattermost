@@ -1995,7 +1995,7 @@
   "bot.add.display_name.help": "(Opzionale) Visualizza il nome completo del bot al posto del nome utente.",
   "bot.add.post_all": "post:all",
   "bot.add.post_all.enabled": "Abilitato",
-  "bot.add.post_all.help": "Il Bot potrà pubblicare in tutti i canali di Mattermost inclusi i messaggi diretti.",
+  "bot.add.post_all.help": "Il Bot potrà pubblicare in tutti i canali di Datopic Inclusi i messaggi diretti.",
   "bot.add.post_channels": "post:channels",
   "bot.add.post_channels.enabled": "Abilitato",
   "bot.add.post_channels.help": "Il Bot potrà pubblicare in tutti i canali pubblici di Mattermost.",

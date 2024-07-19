@@ -82,7 +82,7 @@ func root(c *Context, w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	titleTemplate := "<title>%s</title>"
+	titleTemplate := "<title>DatopicChat</title>"
 	originalHTML := fmt.Sprintf(titleTemplate, html.EscapeString(model.TeamSettingsDefaultSiteName))
 	modifiedHTML := getOpenGraphMetaTags(c)
 	if originalHTML != modifiedHTML {
@@ -161,7 +161,7 @@ func getOpenGraphMetaTags(c *Context) string {
 		siteDescription = *customSiteDescription
 	}
 
-	titleTemplate := "<title>%s</title>"
+	titleTemplate := "<title>DatopicChat</title>"
 	titleHTML := fmt.Sprintf(titleTemplate, html.EscapeString(siteName))
 	descriptionHTML := ""
 	if siteDescription != "" {

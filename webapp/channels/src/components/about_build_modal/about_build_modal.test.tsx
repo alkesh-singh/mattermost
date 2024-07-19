@@ -49,7 +49,7 @@ describe('components/AboutBuildModal', () => {
         };
         license = {
             IsLicensed: 'true',
-            Company: 'Mattermost Inc',
+            Company: 'Datopic Inc',
         };
     });
 

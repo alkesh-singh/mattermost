@@ -491,10 +491,6 @@ export default class Root extends React.PureComponent<Props, State> {
                         component={TermsOfService}
                     />
                     <Route
-                        path={'/landing'}
-                        component={LinkingLandingPage}
-                    />
-                    <Route
                         path={'/admin_console'}
                     >
                         <Switch>

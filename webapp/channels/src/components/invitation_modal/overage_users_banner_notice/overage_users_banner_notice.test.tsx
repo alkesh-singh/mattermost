@@ -81,7 +81,7 @@ describe('components/invitation_modal/overage_users_banner_notice', () => {
                     ExpiresAt: '1620335443650',
                     SkuShortName: 'Enterprise',
                     Name: 'LicenseName',
-                    Company: 'Datopic Inc.',
+                    Company: 'Datopic Technologies.',
                     Users: String(seatsPurchased),
                     Id: licenseId,
                 },

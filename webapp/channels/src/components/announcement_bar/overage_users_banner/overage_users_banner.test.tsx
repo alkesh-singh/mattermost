@@ -86,7 +86,7 @@ describe('components/overage_users_banner', () => {
                     ExpiresAt: '1620335443650',
                     SkuShortName: 'Enterprise',
                     Name: 'LicenseName',
-                    Company: 'Datopic Inc.',
+                    Company: 'Datopic Technologies.',
                     Users: String(seatsPurchased),
                     Email: 'test@mattermost.com',
                     Id: licenseId,

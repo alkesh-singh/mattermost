@@ -1466,7 +1466,7 @@
                   type: integer
                 importFrom:
                   description: String that defines from which application the team was
-                    exported to be imported into Datopic.
+                    exported to be imported into Datopic Technologies.
                   type: string
               required:
                 - file

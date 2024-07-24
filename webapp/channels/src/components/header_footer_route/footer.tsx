@@ -21,7 +21,7 @@ const Footer = () => {
                 key='footer-copyright'
                 className='footer-copyright'
             >
-                {`© ${new Date().getFullYear()} Datopic Inc.`}
+                {`© ${new Date().getFullYear()} Datopic Technologies.`}
             </span>
             {AboutLink && (
                 <ExternalLink

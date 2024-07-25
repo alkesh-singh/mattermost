@@ -118,7 +118,7 @@ export default class AboutBuildModal extends React.PureComponent<Props, State> {
                     />
                     <ExternalLink
                         location='about_build_modal'
-                        href='https://mattermost.com/'
+                        href='https://www.datopic.ai/'
                     >
                         {'mattermost.com'}
                     </ExternalLink>

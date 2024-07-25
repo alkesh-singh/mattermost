@@ -26,6 +26,9 @@ const Header = ({alternateLink, backButtonURL, onBackButtonClick}: HeaderProps) 
     const ariaLabel = SiteName || 'Mattermost';
 
     let freeBanner = null;
+    if (license.IsLicensed === 'false') {
+        freeBanner = <><Logo/><span className='freeBadge'>{''}</span></>;
+    }
 
 
     let title: React.ReactNode = SiteName;

@@ -35,8 +35,6 @@ export function getJoinEmailTemplate(sender, userEmail, team, isGuest = false) {
         '',
         'What is DatopicMeet?',
         'DatopicMeet is a flexible, open source messaging platform that enables secure team collaboration.',
-        '',
-
     ];
 }
 

@@ -23,7 +23,7 @@ ifeq ($(shell uname)/$(shell uname -m),Darwin/arm64)
 endif
 
 define LICENSE_HEADER
-// Copyright (c) 2015-present Mattermost, Inc. All Rights Reserved.
+// Copyright (c) 2015-present DatopicMeet, Inc. All Rights Reserved.
 // See LICENSE.txt for license information.
 
 endef

@@ -1,4 +1,4 @@
-// Copyright (c) 2015-present Mattermost, Inc. All Rights Reserved.
+// Copyright (c) 2015-present DatopicMeet, Inc. All Rights Reserved.
 // See LICENSE.txt for license information.
 
 package sqlstore
@@ -23,8 +23,8 @@ func newSqlUserTermsOfServiceStore(sqlStore *SqlStore) store.UserTermsOfServiceS
 func (s SqlUserTermsOfServiceStore) GetByUser(userId string) (*model.UserTermsOfService, error) {
 	var userTermsOfService model.UserTermsOfService
 	query := `
-		SELECT * 
-		FROM UserTermsOfService 
+		SELECT *
+		FROM UserTermsOfService
 		WHERE UserId = ?
 	`
 	if err := s.GetReplicaX().Get(&userTermsOfService, query, userId); err != nil {
@@ -75,8 +75,8 @@ func (s SqlUserTermsOfServiceStore) Save(userTermsOfService *model.UserTermsOfSe
 
 func (s SqlUserTermsOfServiceStore) Delete(userId, termsOfServiceId string) error {
 	query := `
-		DELETE 
-		FROM UserTermsOfService 
+		DELETE
+		FROM UserTermsOfService
 		WHERE UserId = ? AND TermsOfServiceId = ?
 	`
 	if _, err := s.GetMasterX().Exec(query, userId, termsOfServiceId); err != nil {

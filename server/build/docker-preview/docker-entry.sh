@@ -1,5 +1,5 @@
 #!/bin/bash
-# Copyright (c) 2016 Mattermost, Inc. All Rights Reserved.
+# Copyright (c) 2016 DatopicMeet, Inc. All Rights Reserved.
 # See License.txt for license information.
 
 echo "Starting PostgreSQL"

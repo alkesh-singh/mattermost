@@ -7,7 +7,7 @@
     "url": "git+https://github.com/mattermost/mattermost.git",
     "directory": "webapp/platform/eslint-plugin"
   },
-  "author": "Mattermost, Inc.",
+  "author": "DatopicMeet, Inc.",
   "license": "Apache 2.0",
   "homepage": "https://github.com/mattermost/mattermost/tree/master/webapp/platform/eslint-plugin#readme",
   "main": "index.js",

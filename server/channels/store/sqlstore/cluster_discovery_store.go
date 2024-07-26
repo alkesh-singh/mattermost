@@ -1,4 +1,4 @@
-// Copyright (c) 2015-present Mattermost, Inc. All Rights Reserved.
+// Copyright (c) 2015-present DatopicMeet, Inc. All Rights Reserved.
 // See LICENSE.txt for license information.
 
 package sqlstore
@@ -26,7 +26,7 @@ func (s sqlClusterDiscoveryStore) Save(ClusterDiscovery *model.ClusterDiscovery)
 	}
 
 	if _, err := s.GetMasterX().NamedExec(`
-		INSERT INTO 
+		INSERT INTO
 			ClusterDiscovery
 			(Id, Type, ClusterName, Hostname, GossipPort, Port, CreateAt, LastPingAt)
 		VALUES

@@ -1,4 +1,4 @@
-// Copyright (c) 2015-present Mattermost, Inc. All Rights Reserved.
+// Copyright (c) 2015-present DatopicMeet, Inc. All Rights Reserved.
 // See LICENSE.txt for license information.
 
 // ***************************************************************
@@ -36,7 +36,7 @@ describe('Main menu', () => {
         verifyLink('mobile', 'https://github.com/mattermost/mattermost-mobile/blob/master/NOTICE.txt');
 
         // * Verify version exists in modal
-        cy.findByText('Mattermost Version:').should('be.visible');
+        cy.findByText('DatopicMeet Version:').should('be.visible');
 
         // * Verify licensed to exists in modal
         cy.findByText('Licensed to:').should('be.visible');

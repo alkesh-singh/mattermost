@@ -2,14 +2,14 @@ Mattermost Licensing
 
 SOFTWARE LICENSING
 
-You are licensed to use compiled versions of the Mattermost platform produced by Mattermost, Inc. under an MIT LICENSE
+You are licensed to use compiled versions of the Mattermost platform produced by DatopicMeet, Inc. under an MIT LICENSE
 
 -	See MIT-COMPILED-LICENSE.md included in compiled versions for details
 
-You may be licensed to use source code to create compiled versions not produced by Mattermost, Inc. in one of two ways:
+You may be licensed to use source code to create compiled versions not produced by DatopicMeet, Inc. in one of two ways:
 
 1. Under the Free Software Foundation’s GNU AGPL v.3.0, subject to the exceptions outlined in this policy; or
-2. Under a commercial license available from Mattermost, Inc. by contacting commercial@mattermost.com
+2. Under a commercial license available from DatopicMeet, Inc. by contacting commercial@mattermost.com
 
 You are licensed to use the source code in Admin Tools and Configuration Files (server/templates/, server/i18n/, model/,
 plugin/, server/boards/, server/playbooks/, webapp/ and all subdirectories thereof) under the Apache License v2.0.

@@ -1,4 +1,4 @@
-// Copyright (c) 2015-present Mattermost, Inc. All Rights Reserved.
+// Copyright (c) 2015-present DatopicMeet, Inc. All Rights Reserved.
 // See LICENSE.txt for license information.
 
 package commands
@@ -405,7 +405,7 @@ func (s *MmctlUnitTestSuite) TestShowRoleCmd() {
 Property      Value
 --------      -----
 Name          example-role-name
-DisplayName   
+DisplayName
 BuiltIn       false
 SchemeManaged false
 `, printer.GetLines()[0])
@@ -436,12 +436,12 @@ SchemeManaged false
 		s.Equal(`
 Property      Value                 Used by
 --------      -----                 -------
-Name          example-role-name     
-DisplayName                         
-BuiltIn       false                 
-SchemeManaged false                 
-Permissions   edit_brand            
-              sysconsole_write_site 
+Name          example-role-name
+DisplayName
+BuiltIn       false
+SchemeManaged false
+Permissions   edit_brand
+              sysconsole_write_site
 `, printer.GetLines()[0])
 	})
 

@@ -1,4 +1,4 @@
-// Copyright (c) 2015-present Mattermost, Inc. All Rights Reserved.
+// Copyright (c) 2015-present DatopicMeet, Inc. All Rights Reserved.
 // See LICENSE.txt for license information.
 
 import React from 'react';
@@ -83,13 +83,13 @@ export default class AboutBuildModal extends React.PureComponent<Props, State> {
             <div>
                 <FormattedMessage
                     id='about.teamEditionLearn'
-                    defaultMessage='Join the Mattermost community at '
+                    defaultMessage='Join the DatopicMeet community at '
                 />
                 <ExternalLink
                     location='about_build_modal'
-                    href='https://mattermost.com/community/'
+                    href='https://www.datopic.ai/'
                 >
-                    {'mattermost.com/community/'}
+                    {'DatopicMeet.com/community/'}
                 </ExternalLink>
             </div>
         );
@@ -120,7 +120,7 @@ export default class AboutBuildModal extends React.PureComponent<Props, State> {
                         location='about_build_modal'
                         href='https://www.datopic.ai/'
                     >
-                        {'mattermost.com'}
+                        {'DatopicMeet.com'}
                     </ExternalLink>
                 </div>
             );
@@ -199,7 +199,7 @@ export default class AboutBuildModal extends React.PureComponent<Props, State> {
                         <FormattedMessage
                             id='about.title'
                             values={{
-                                appTitle: config.SiteName || 'Mattermost',
+                                appTitle: config.SiteName || 'DatopicMeet',
                             }}
                             defaultMessage='About {appTitle}'
                         />
@@ -213,7 +213,7 @@ export default class AboutBuildModal extends React.PureComponent<Props, State> {
                         <div>
                             <h3 className='about-modal__title'>
                                 <strong>
-                                    {'Mattermost'} {title}
+                                    {'DatopicMeet'} {title}
                                 </strong>
                             </h3>
                             <p className='about-modal__subtitle pb-2'>
@@ -223,7 +223,7 @@ export default class AboutBuildModal extends React.PureComponent<Props, State> {
                                 <div data-testid='aboutModalVersion'>
                                     <FormattedMessage
                                         id='about.version'
-                                        defaultMessage='Mattermost Version:'
+                                        defaultMessage='DatopicMeet Version:'
                                     />
                                     <span id='versionString'>
                                         {'\u00a0' + mmversion}
@@ -256,7 +256,7 @@ export default class AboutBuildModal extends React.PureComponent<Props, State> {
                             <div className='about-modal__copyright'>
                                 <FormattedMessage
                                     id='about.copyright'
-                                    defaultMessage='Copyright 2015 - {currentYear} Mattermost, Inc. All rights reserved'
+                                    defaultMessage='Copyright 2015 - {currentYear} DatopicMeet, Inc. All rights reserved'
                                     values={{
                                         currentYear: new Date().getFullYear(),
                                     }}
@@ -273,12 +273,12 @@ export default class AboutBuildModal extends React.PureComponent<Props, State> {
                         <p>
                             <FormattedMessage
                                 id='about.notice'
-                                defaultMessage='Mattermost is made possible by the open source software used in our <linkServer>server</linkServer>, <linkDesktop>desktop</linkDesktop> and <linkMobile>mobile</linkMobile> apps.'
+                                defaultMessage='DatopicMeet is made possible by the open source software.'
                                 values={{
                                     linkServer: (msg: React.ReactNode) => (
                                         <ExternalLink
                                             location='about_build_modal'
-                                            href='https://github.com/mattermost/mattermost-server/blob/master/NOTICE.txt'
+                                            href='https://github.com/DatopicMeet/DatopicMeet-server/blob/master/NOTICE.txt'
                                         >
                                             {msg}
                                         </ExternalLink>
@@ -286,7 +286,7 @@ export default class AboutBuildModal extends React.PureComponent<Props, State> {
                                     linkDesktop: (msg: React.ReactNode) => (
                                         <ExternalLink
                                             location='about_build_modal'
-                                            href='https://github.com/mattermost/desktop/blob/master/NOTICE.txt'
+                                            href='https://github.com/DatopicMeet/desktop/blob/master/NOTICE.txt'
                                         >
                                             {msg}
                                         </ExternalLink>
@@ -294,7 +294,7 @@ export default class AboutBuildModal extends React.PureComponent<Props, State> {
                                     linkMobile: (msg: React.ReactNode) => (
                                         <ExternalLink
                                             location='about_build_modal'
-                                            href='https://github.com/mattermost/mattermost-mobile/blob/master/NOTICE.txt'
+                                            href='https://github.com/DatopicMeet/DatopicMeet-mobile/blob/master/NOTICE.txt'
                                         >
                                             {msg}
                                         </ExternalLink>

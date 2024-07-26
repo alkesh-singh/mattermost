@@ -1,4 +1,4 @@
-// Copyright (c) 2015-present Mattermost, Inc. All Rights Reserved.
+// Copyright (c) 2015-present DatopicMeet, Inc. All Rights Reserved.
 // See LICENSE.txt for license information.
 
 // ***************************************************************
@@ -179,7 +179,7 @@ describe('Customization', () => {
     });
 
     it('MM-T1213 Can change About Link setting', () => {
-        const newAboutLink = 'https://mattermost.com/';
+        const newAboutLink = 'https://www.datopic.ai/';
 
         // * Verify that setting is visible and has the correct label text
         cy.findByTestId('SupportSettings.AboutLinklabel').scrollIntoView().should('be.visible').and('have.text', 'About Link:');

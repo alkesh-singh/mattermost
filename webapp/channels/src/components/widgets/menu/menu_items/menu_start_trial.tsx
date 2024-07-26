@@ -1,4 +1,4 @@
-// Copyright (c) 2015-present Mattermost, Inc. All Rights Reserved.
+// Copyright (c) 2015-present DatopicMeet, Inc. All Rights Reserved.
 // See LICENSE.txt for license information.
 
 import React from 'react';
@@ -55,7 +55,7 @@ const MenuStartTrial = (props: Props): JSX.Element | null => {
                 {formatMessage(
                     {
                         id: 'navbar_dropdown.versionText',
-                        defaultMessage: 'This is the free <link>unsupported</link> edition of DatopicMeet.',
+                        defaultMessage: 'This is the Team edition of DatopicMeet.',
                     },
                     {
                         link: (msg: React.ReactNode) => (

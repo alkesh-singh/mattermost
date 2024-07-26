@@ -1,4 +1,4 @@
-// Copyright (c) 2015-present Mattermost, Inc. All Rights Reserved.
+// Copyright (c) 2015-present DatopicMeet, Inc. All Rights Reserved.
 // See LICENSE.txt for license information.
 
 import React from 'react';
@@ -19,9 +19,9 @@ import {ModalIdentifiers} from 'utils/constants';
 
 import type {PropsFromRedux} from './index';
 
-const mattermostUserGuideLink = 'https://docs.mattermost.com/guides/use-mattermost.html';
-const trainingResourcesLink = 'https://academy.mattermost.com/';
-const askTheCommunityUrl = 'https://mattermost.com/pl/default-ask-mattermost-community/';
+const mattermostUserGuideLink = 'https://www.datopic.ai/';
+const trainingResourcesLink = 'https://www.datopic.ai/';
+const askTheCommunityUrl = 'https://www.datopic.ai/';
 
 type Props = WrappedComponentProps & PropsFromRedux & {
     location: {
@@ -106,7 +106,7 @@ class UserGuideDropdown extends React.PureComponent<Props, State> {
                     <Menu.ItemExternalLink
                         id='reportAProblemLink'
                         iconClassName='icon-alert-outline'
-                        url={this.props.reportAProblemLink}
+                        url={askTheCommunityUrl}
                         text={intl.formatMessage({id: 'userGuideHelp.reportAProblem', defaultMessage: 'Report a problem'})}
                     />
                 )}

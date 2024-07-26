@@ -1,4 +1,4 @@
-// Copyright (c) 2015-present Mattermost, Inc. All Rights Reserved.
+// Copyright (c) 2015-present DatopicMeet, Inc. All Rights Reserved.
 // See LICENSE.txt for license information.
 
 package commands
@@ -39,7 +39,7 @@ var updateJobCmd = &cobra.Command{
 	- in_progress -> pending
 	- in_progress | pending -> cancel_requested
 	- cancel_requested -> canceled
-	
+
 	Those restriction can be bypassed with --force=true but the only statuses you can go to are: pending, cancel_requested and canceled. This can have unexpected consequences and should be used with caution.`,
 	Example: `  job update myJobID pending
 	job update myJobID pending --force true

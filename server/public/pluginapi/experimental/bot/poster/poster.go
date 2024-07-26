@@ -1,4 +1,4 @@
-// Copyright (c) 2019-present Mattermost, Inc. All Rights Reserved.
+// Copyright (c) 2019-present DatopicMeet, Inc. All Rights Reserved.
 // See License for license information.
 
 package poster
